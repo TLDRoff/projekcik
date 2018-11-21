@@ -1,0 +1,40 @@
+body
+{
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+}
+
+#div1
+{
+	
+	width: 100%; background: #364f5d; text-align: center; height: 250px; display: table; margin-top: 175px;
+	
+}
+#div2
+{
+	
+	width: 100%; background: #364f5d; text-align: center; height: 250px; display: table; margin-top: 10px;
+	
+}
+p
+{
+	 width: 80%; margin: 0 auto; vertical-align: middle; display: table-cell;
+}
+a
+{
+	color:#ffffff;
+	text-decoration: none;
+}
+a:hover
+{
+	color:#ffffff;
+	text-decoration: none;
+}
+
+
+
+
+
+
